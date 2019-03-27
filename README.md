@@ -23,3 +23,5 @@
   "mov [rax], rsi":         0x00FD798B,
   
   "pop rcx":                0x00023E90,
+
+  "mov [rdi], rax":         0x00036E14
